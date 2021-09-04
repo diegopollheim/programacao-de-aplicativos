@@ -1,0 +1,7 @@
+Nome do repositório para push: aplicativos
+
+COMANDOS:
+
+git add (nome pasta ou projeto)
+git commit -m "comentario"
+git push aplicativos

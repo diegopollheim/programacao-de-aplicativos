@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Calculadora
 {
-    public partial class Form1 : Form
+    public partial class CALCULADORA : Form
     {
-        public Form1()
+        public CALCULADORA()
         {
             InitializeComponent();
         }
@@ -30,10 +30,75 @@ namespace Calculadora
                 resultado = valor1 + valor2;
                 ttbValor1.Clear();
                 ttbValor2.Clear();
-                lbResultado.Text = Convert.ToString(resultado);
+                string caption = $"{valor1} + {valor2}";
+                CaptionSoma.Text = caption.ToString();
+                ResSoma.Text = $"Resultado = {resultado}";
             }
             else
-                MessageBox.Show("Verifique o preenchimento dos campos Valor 1 e Valor 2.");
+                MessageBox.Show("Verifique o preenchimento dos campos valor 1 e valor 2", "Algo deu errado!");
         }
+
+        private void btnSubtrair_Click(object sender, EventArgs e)
+        {
+            decimal valor1 = 0;
+            decimal valor2 = 0;
+            decimal resultado = 0;
+
+            if (subVal1Txt.Text != "" && subVal2Txt.Text != "")
+            {
+                valor1 = Convert.ToDecimal(subVal1Txt.Text);
+                valor2 = Convert.ToDecimal(subVal2Txt.Text);
+                resultado = valor1 - valor2;
+                subVal1Txt.Clear();
+                subVal2Txt.Clear();
+                string caption = $"{valor1} - {valor2}";
+                CaptionSubtracao.Text = caption.ToString();
+                ResSubtracao.Text = $"Resultado = {resultado}";
+            }
+            else
+                MessageBox.Show("Verifique o preenchimento dos campos valor 1 e valor 2", "Algo deu errado!");
+        }
+
+        private void btnMultiplicar_Click(object sender, EventArgs e)
+        {
+            decimal valor1 = 0;
+            decimal valor2 = 0;
+            decimal resultado = 0;
+
+            if (txtVal1Multiplicar.Text != "" && txtVal2Multiplicar.Text != "")
+            {
+                valor1 = Convert.ToDecimal(txtVal1Multiplicar.Text);
+                valor2 = Convert.ToDecimal(txtVal2Multiplicar.Text);
+                resultado = valor1 * valor2;
+                subVal1Txt.Clear();
+                subVal2Txt.Clear();
+                string caption = $"{valor1} * {valor2}";
+                CaptionMultiplicacao.Text = caption.ToString();
+                lbResultado.Text = Convert.ToString(resultado);
+                ResMultiplicar.Text = $"Resultado = {resultado}";
+            }
+            else
+                MessageBox.Show("Verifique o preenchimento dos campos valor 1 e valor 2", "Algo deu errado!");
+        }
+
+        private void btnDivisao_Click(object sender, EventArgs e)
+        {
+            if (val1DivTxt.Text != "" && val2DivTxt.Text != "")
+            {
+                double valor1 = double.Parse(val1DivTxt.Text);
+                double valor2 = double.Parse(val2DivTxt.Text);
+                double res = valor1 / valor2;
+                val1DivTxt.Clear();
+                val2DivTxt.Clear();
+                string caption = $"{valor1} / {valor2}";
+                CaptionDivisao.Text = caption.ToString();
+                lbResultado.Text = Convert.ToString(res);
+                ResDivisao.Text = $"Resultado = {res}";
+            }
+            else
+                MessageBox.Show("Verifique o preenchimento dos campos valor 1 e valor 2","Algo deu errado!");
+        }
+
+        
     }
 }

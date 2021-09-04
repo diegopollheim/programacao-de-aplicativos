@@ -16,3 +16,21 @@ C:\Users\114937\Desktop\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calcula
 C:\Users\114937\Desktop\Calculadora\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
 C:\Users\114937\Desktop\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
 C:\Users\114937\Desktop\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.deps.json
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.json
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.dev.json
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.dll
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\bin\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.dll
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.CALCULADORA.resources
