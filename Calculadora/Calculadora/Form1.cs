@@ -98,7 +98,5 @@ namespace Calculadora
             else
                 MessageBox.Show("Verifique o preenchimento dos campos valor 1 e valor 2","Algo deu errado!");
         }
-
-        
     }
 }
