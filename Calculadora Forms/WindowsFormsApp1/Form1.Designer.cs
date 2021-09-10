@@ -47,6 +47,7 @@
             this.button19 = new System.Windows.Forms.Button();
             this.button20 = new System.Windows.Forms.Button();
             this.Apagar = new System.Windows.Forms.Button();
+            this.lbl = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // tela
@@ -198,6 +199,7 @@
             this.button14.TabIndex = 15;
             this.button14.Text = "3";
             this.button14.UseVisualStyleBackColor = true;
+            this.button14.Click += new System.EventHandler(this.button17_Click);
             // 
             // button15
             // 
@@ -266,11 +268,21 @@
             this.Apagar.UseVisualStyleBackColor = false;
             this.Apagar.Click += new System.EventHandler(this.Apagar_Click);
             // 
+            // lbl
+            // 
+            this.lbl.AutoSize = true;
+            this.lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl.Location = new System.Drawing.Point(11, 59);
+            this.lbl.Name = "lbl";
+            this.lbl.Size = new System.Drawing.Size(0, 20);
+            this.lbl.TabIndex = 22;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(240, 372);
+            this.ClientSize = new System.Drawing.Size(240, 367);
+            this.Controls.Add(this.lbl);
             this.Controls.Add(this.Apagar);
             this.Controls.Add(this.btnRes);
             this.Controls.Add(this.button19);
@@ -321,6 +333,7 @@
         private System.Windows.Forms.Button button19;
         private System.Windows.Forms.Button button20;
         private System.Windows.Forms.Button Apagar;
+        private System.Windows.Forms.Label lbl;
     }
 }
 

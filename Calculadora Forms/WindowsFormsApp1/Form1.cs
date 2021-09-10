@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp1
@@ -21,8 +15,20 @@ namespace WindowsFormsApp1
 
         private void button17_Click(object sender, EventArgs e)
         {
-            Button btn = (Button) sender;
-            tela.Text += btn.Text;
+            Button btn = (Button)sender;
+            if (btn.Text.Contains(",") && tela.Text.Contains(","))
+            {
+                tela.Text += "";
+            }
+            else
+            {
+                tela.Text += btn.Text;
+                lbl.Text += tela.Text;
+            }
+            if (tela.Text == "" && btn.Text == ",")
+            {
+                tela.Text = "0";
+            }
         }
 
         private void btn_Operacao_Click(object sender, EventArgs e)
@@ -31,14 +37,14 @@ namespace WindowsFormsApp1
             op = btn.Text;
             num1 = Double.Parse(tela.Text);
             tela.Clear();
-            
+
         }
 
         private void btnRes_Click(object sender, EventArgs e)
         {
             num2 = Double.Parse(tela.Text);
             tela.Clear();
-            CalcularResultado(num1,num2,op);
+            CalcularResultado(num1, num2, op);
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -63,6 +69,7 @@ namespace WindowsFormsApp1
 
         private void CalcularResultado(double num1, double num2, string op)
         {
+
             double res = 0;
             switch (op)
             {
