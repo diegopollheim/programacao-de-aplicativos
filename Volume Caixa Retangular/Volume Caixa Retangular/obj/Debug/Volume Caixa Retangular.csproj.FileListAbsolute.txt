@@ -1,0 +1,9 @@
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Volume Caixa Retangular\Volume Caixa Retangular\bin\Debug\Volume Caixa Retangular.exe.config
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Volume Caixa Retangular\Volume Caixa Retangular\bin\Debug\Volume Caixa Retangular.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Volume Caixa Retangular\Volume Caixa Retangular\bin\Debug\Volume Caixa Retangular.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Volume Caixa Retangular\Volume Caixa Retangular\obj\Debug\Volume_Caixa_Retangular.Form1.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Volume Caixa Retangular\Volume Caixa Retangular\obj\Debug\Volume_Caixa_Retangular.Properties.Resources.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Volume Caixa Retangular\Volume Caixa Retangular\obj\Debug\Volume Caixa Retangular.csproj.GenerateResource.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Volume Caixa Retangular\Volume Caixa Retangular\obj\Debug\Volume Caixa Retangular.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Volume Caixa Retangular\Volume Caixa Retangular\obj\Debug\Volume Caixa Retangular.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Volume Caixa Retangular\Volume Caixa Retangular\obj\Debug\Volume Caixa Retangular.pdb

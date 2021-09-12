@@ -1,0 +1,9 @@
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\Manipulando Strings\bin\Debug\Manipulando Strings.exe.config
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\Manipulando Strings\bin\Debug\Manipulando Strings.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\Manipulando Strings\bin\Debug\Manipulando Strings.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\Manipulando Strings\obj\Debug\Manipulando_Strings.Form1.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\Manipulando Strings\obj\Debug\Manipulando_Strings.Properties.Resources.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\Manipulando Strings\obj\Debug\Manipulando Strings.csproj.GenerateResource.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\Manipulando Strings\obj\Debug\Manipulando Strings.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\Manipulando Strings\obj\Debug\Manipulando Strings.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\Manipulando Strings\obj\Debug\Manipulando Strings.pdb

@@ -1,0 +1,10 @@
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Média Consumo Combustivel\Média Consumo Combustivel\bin\Debug\Média Consumo Combustivel.exe.config
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Média Consumo Combustivel\Média Consumo Combustivel\bin\Debug\Média Consumo Combustivel.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Média Consumo Combustivel\Média Consumo Combustivel\bin\Debug\Média Consumo Combustivel.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Média Consumo Combustivel\Média Consumo Combustivel\obj\Debug\Média Consumo Combustivel.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Média Consumo Combustivel\Média Consumo Combustivel\obj\Debug\Média_Consumo_Combustivel.Form1.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Média Consumo Combustivel\Média Consumo Combustivel\obj\Debug\Média_Consumo_Combustivel.Properties.Resources.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Média Consumo Combustivel\Média Consumo Combustivel\obj\Debug\Média Consumo Combustivel.csproj.GenerateResource.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Média Consumo Combustivel\Média Consumo Combustivel\obj\Debug\Média Consumo Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Média Consumo Combustivel\Média Consumo Combustivel\obj\Debug\Média Consumo Combustivel.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Média Consumo Combustivel\Média Consumo Combustivel\obj\Debug\Média Consumo Combustivel.pdb
