@@ -16,5 +16,20 @@ namespace Manipulando_Strings
         {
             InitializeComponent();
         }
+
+        private void btnTam_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnQtdPalavras_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnInverter_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
