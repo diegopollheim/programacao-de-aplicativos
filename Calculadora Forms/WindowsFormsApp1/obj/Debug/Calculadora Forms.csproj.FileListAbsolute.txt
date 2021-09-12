@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\Diego\programacao-de-aplicativos\Calculadora Forms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Aluno\Desktop\Diego\programacao-de-aplicativos\Calculadora Forms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Aluno\Desktop\Diego\programacao-de-aplicativos\Calculadora Forms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Aluno\Desktop\Diego\programacao-de-aplicativos\Calculadora Forms\WindowsFormsApp1\obj\Debug\Calculadora Forms.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Diego\programacao-de-aplicativos\Calculadora Forms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Aluno\Desktop\Diego\programacao-de-aplicativos\Calculadora Forms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Diego\programacao-de-aplicativos\Calculadora Forms\WindowsFormsApp1\obj\Debug\Calculadora Forms.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Diego\programacao-de-aplicativos\Calculadora Forms\WindowsFormsApp1\obj\Debug\Calculadora Forms.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Diego\programacao-de-aplicativos\Calculadora Forms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Aluno\Desktop\Diego\programacao-de-aplicativos\Calculadora Forms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
