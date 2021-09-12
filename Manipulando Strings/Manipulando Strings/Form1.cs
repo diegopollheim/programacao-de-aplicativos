@@ -40,5 +40,12 @@ namespace Manipulando_Strings
             }
             txtResultado.Text = palavraInvertida.ToString();
         }
+
+        private void btnLimpar_Click(object sender, EventArgs e)
+        {
+            txtPalavra.Clear();
+            txtResultado.Clear();
+            txtPalavra.Focus();
+        }
     }
 }

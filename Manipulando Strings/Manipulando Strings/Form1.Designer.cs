@@ -35,6 +35,7 @@ namespace Manipulando_Strings
             this.btnTam = new System.Windows.Forms.Button();
             this.btnQtdPalavras = new System.Windows.Forms.Button();
             this.btnInverter = new System.Windows.Forms.Button();
+            this.btnLimpar = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtPalavra
@@ -97,12 +98,24 @@ namespace Manipulando_Strings
             this.btnInverter.UseVisualStyleBackColor = true;
             this.btnInverter.Click += new System.EventHandler(this.btnInverter_Click);
             // 
+            // btnLimpar
+            // 
+            this.btnLimpar.AutoSize = true;
+            this.btnLimpar.ForeColor = System.Drawing.Color.Blue;
+            this.btnLimpar.Location = new System.Drawing.Point(28, 154);
+            this.btnLimpar.Name = "btnLimpar";
+            this.btnLimpar.Size = new System.Drawing.Size(62, 13);
+            this.btnLimpar.TabIndex = 6;
+            this.btnLimpar.Text = "Limpar tudo";
+            this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ClientSize = new System.Drawing.Size(479, 302);
+            this.Controls.Add(this.btnLimpar);
             this.Controls.Add(this.btnInverter);
             this.Controls.Add(this.btnQtdPalavras);
             this.Controls.Add(this.btnTam);
@@ -112,7 +125,7 @@ namespace Manipulando_Strings
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Manupilando Strings";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -126,6 +139,7 @@ namespace Manipulando_Strings
         private System.Windows.Forms.Button btnTam;
         private System.Windows.Forms.Button btnQtdPalavras;
         private System.Windows.Forms.Button btnInverter;
+        private System.Windows.Forms.Label btnLimpar;
     }
 }
 
