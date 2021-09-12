@@ -7,3 +7,4 @@ C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\
 C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\Manipulando Strings\obj\Debug\Manipulando Strings.csproj.CoreCompileInputs.cache
 C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\Manipulando Strings\obj\Debug\Manipulando Strings.exe
 C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\Manipulando Strings\obj\Debug\Manipulando Strings.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Manipulando Strings\Manipulando Strings\obj\Debug\Manipulando Strings.csproj.AssemblyReference.cache
