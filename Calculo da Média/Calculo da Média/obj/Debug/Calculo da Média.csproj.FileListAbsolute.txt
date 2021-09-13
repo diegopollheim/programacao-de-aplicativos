@@ -1,0 +1,10 @@
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculo da Média\Calculo da Média\bin\Debug\Calculo da Média.exe.config
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculo da Média\Calculo da Média\bin\Debug\Calculo da Média.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculo da Média\Calculo da Média\bin\Debug\Calculo da Média.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculo da Média\Calculo da Média\obj\Debug\Calculo da Média.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculo da Média\Calculo da Média\obj\Debug\Calculo_da_Média.Form1.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculo da Média\Calculo da Média\obj\Debug\Calculo_da_Média.Properties.Resources.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculo da Média\Calculo da Média\obj\Debug\Calculo da Média.csproj.GenerateResource.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculo da Média\Calculo da Média\obj\Debug\Calculo da Média.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculo da Média\Calculo da Média\obj\Debug\Calculo da Média.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Calculo da Média\Calculo da Média\obj\Debug\Calculo da Média.pdb
