@@ -29,6 +29,7 @@ namespace Conversor_Fahrenheit
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
             this.textBox = new System.Windows.Forms.TextBox();
             this.btnConverter = new System.Windows.Forms.Button();
@@ -85,6 +86,7 @@ namespace Conversor_Fahrenheit
             this.Controls.Add(this.btnConverter);
             this.Controls.Add(this.textBox);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

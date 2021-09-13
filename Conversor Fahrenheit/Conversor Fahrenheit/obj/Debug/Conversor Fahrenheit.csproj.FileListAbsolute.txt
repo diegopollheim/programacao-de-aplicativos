@@ -8,3 +8,13 @@ C:\Users\Diego\source\repos\Conversor Fahrenheit\Conversor Fahrenheit\obj\Debug\
 C:\Users\Diego\source\repos\Conversor Fahrenheit\Conversor Fahrenheit\obj\Debug\Conversor Fahrenheit.csproj.CoreCompileInputs.cache
 C:\Users\Diego\source\repos\Conversor Fahrenheit\Conversor Fahrenheit\obj\Debug\Conversor Fahrenheit.exe
 C:\Users\Diego\source\repos\Conversor Fahrenheit\Conversor Fahrenheit\obj\Debug\Conversor Fahrenheit.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Conversor Fahrenheit\Conversor Fahrenheit\bin\Debug\Conversor Fahrenheit.exe.config
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Conversor Fahrenheit\Conversor Fahrenheit\bin\Debug\Conversor Fahrenheit.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Conversor Fahrenheit\Conversor Fahrenheit\bin\Debug\Conversor Fahrenheit.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Conversor Fahrenheit\Conversor Fahrenheit\obj\Debug\Conversor Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Conversor Fahrenheit\Conversor Fahrenheit\obj\Debug\Conversor_Fahrenheit.Form1.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Conversor Fahrenheit\Conversor Fahrenheit\obj\Debug\Conversor_Fahrenheit.Properties.Resources.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Conversor Fahrenheit\Conversor Fahrenheit\obj\Debug\Conversor Fahrenheit.csproj.GenerateResource.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Conversor Fahrenheit\Conversor Fahrenheit\obj\Debug\Conversor Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Conversor Fahrenheit\Conversor Fahrenheit\obj\Debug\Conversor Fahrenheit.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Conversor Fahrenheit\Conversor Fahrenheit\obj\Debug\Conversor Fahrenheit.pdb

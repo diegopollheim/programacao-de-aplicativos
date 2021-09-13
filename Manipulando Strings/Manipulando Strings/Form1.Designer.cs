@@ -29,6 +29,7 @@ namespace Manipulando_Strings
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.txtPalavra = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.txtResultado = new System.Windows.Forms.TextBox();
@@ -122,6 +123,7 @@ namespace Manipulando_Strings
             this.Controls.Add(this.txtResultado);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtPalavra);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
