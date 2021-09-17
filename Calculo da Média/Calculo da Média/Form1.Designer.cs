@@ -129,6 +129,7 @@ namespace Calculo_da_Média
             this.btnCalcularMedia.TabIndex = 8;
             this.btnCalcularMedia.Text = "Calcular Média";
             this.btnCalcularMedia.UseVisualStyleBackColor = false;
+            this.btnCalcularMedia.Click += new System.EventHandler(this.btnCalcularMedia_Click);
             // 
             // Form1
             // 
