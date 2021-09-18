@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\bin\Debug\Exercicios-01-05.exe.config
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\bin\Debug\Exercicios-01-05.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\bin\Debug\Exercicios-01-05.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\obj\Debug\Exercicios-01-05.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\obj\Debug\Exercicios_01_05.Properties.Resources.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\obj\Debug\Exercicios-01-05.csproj.GenerateResource.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\obj\Debug\Exercicios-01-05.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\obj\Debug\Exercicios-01-05.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\obj\Debug\Exercicios-01-05.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\obj\Debug\Exercicios_01_05.INDEX.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\obj\Debug\Conversor_Fahrenheit.EX01.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\obj\Debug\Volume_Caixa_Retangular.EX02.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\obj\Debug\Média_Consumo_Combustivel.EX03.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\obj\Debug\Manipulando_Strings.EX04.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\Exercicios-01-05\Exercicios-01-05\obj\Debug\Calculo_da_Média.EX05.resources
