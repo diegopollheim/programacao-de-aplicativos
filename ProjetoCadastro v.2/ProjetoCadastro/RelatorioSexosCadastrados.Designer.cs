@@ -73,17 +73,18 @@
             this.btnSair.UseVisualStyleBackColor = true;
             this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
             // 
-            // RelatorioSexosCadstrados
+            // RelatorioSexosCadastrados
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ClientSize = new System.Drawing.Size(434, 361);
+            this.ControlBox = false;
             this.Controls.Add(this.btnSair);
             this.Controls.Add(this.btnExcluir);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dgvSexos);
-            this.Name = "RelatorioSexosCadstrados";
+            this.Name = "RelatorioSexosCadastrados";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "RelatorioSexo";
             this.Load += new System.EventHandler(this.RelatorioSexo_Load);

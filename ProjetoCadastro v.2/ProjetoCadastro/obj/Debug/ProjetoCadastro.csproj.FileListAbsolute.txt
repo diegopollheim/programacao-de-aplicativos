@@ -53,3 +53,19 @@ C:\Users\Diego\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro
 C:\Users\Diego\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.RelatorioAgenciasCadastradas.resources
 C:\Users\Diego\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.RelatorioClientesCadastrados.resources
 C:\Users\Diego\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.RelatorioSexosCadastrados.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\bin\Debug\ProjetoCadastro.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\obj\Debug\ProjetoCadastro.csprojAssemblyReference.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\obj\Debug\ProjetoCadastro.CadastroAgencia.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\obj\Debug\ProjetoCadastro.CadastroCliente.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\obj\Debug\ProjetoCadastro.CadastroSexo.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\obj\Debug\ProjetoCadastro.Menu.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\obj\Debug\ProjetoCadastro.RelatorioAgenciasCadastradas.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\obj\Debug\ProjetoCadastro.RelatorioClientesCadastrados.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\obj\Debug\ProjetoCadastro.RelatorioSexosCadastrados.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ProjetoCadastro v.2\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
