@@ -65,14 +65,14 @@ namespace ProjetoCadastro
                             {
                                 if (Dados.ListaPessoas[i].Cpf == txtCpfCliente.Text)
                                 {
-                                    Dados.ListaContas.Add(objConta);
-                                    MessageBox.Show("Conta Cadastrada com Sucesso!", "Feito");
+                                    MessageBox.Show("CPF Já Casdastrado!", "Atenção");
                                 }
                                 else
                                 {
-                                    MessageBox.Show("Cliente não cadastrado!", "Atenção");
+                                    //Cria a conta com informaçoes do obj
+                                    Dados.ListaContas.Add(objConta);
+                                    MessageBox.Show("Conta Cadastrada com Sucesso!", "Feito");
                                 }
-                                
                             }
                         }
                         else
