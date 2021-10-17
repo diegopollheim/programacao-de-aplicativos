@@ -30,7 +30,7 @@ namespace ExemploBancoDados
             {
                 if (!String.IsNullOrEmpty(txtNome.Text))
                 {
-                    // Gravar dados
+                    // Monta objPessoa
                     PessoaEntity objPessoa = new PessoaEntity(0, txtNome.Text, txtCpf.Text);
 
                     // Fazer inserçao no banco

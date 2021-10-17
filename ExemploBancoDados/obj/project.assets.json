@@ -451,23 +451,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aluno\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Diego\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\ExemploBancoDados\\ExemploBancoDados.csproj",
+      "projectUniqueName": "C:\\Users\\Diego\\Documents\\SENAI\\PROGRAMAÇÃO DE APLICATIVOS\\ExemploBancoDados\\ExemploBancoDados.csproj",
       "projectName": "ExemploBancoDados",
-      "projectPath": "C:\\Users\\Aluno\\Downloads\\ExemploBancoDados\\ExemploBancoDados.csproj",
-      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Downloads\\ExemploBancoDados\\obj\\",
+      "projectPath": "C:\\Users\\Diego\\Documents\\SENAI\\PROGRAMAÇÃO DE APLICATIVOS\\ExemploBancoDados\\ExemploBancoDados.csproj",
+      "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Diego\\Documents\\SENAI\\PROGRAMAÇÃO DE APLICATIVOS\\ExemploBancoDados\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -516,7 +512,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

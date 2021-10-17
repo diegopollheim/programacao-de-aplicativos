@@ -24,7 +24,7 @@ namespace ExemploBancoDados.DAO
 
     public class Banco
     {
-        private static string _strCon = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Aluno\Downloads\ExemploBancoDados\DAO\Banco.mdf;Integrated Security=True";
+        private static string _strCon = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ExemploBancoDados\DAO\Banco.mdf';Integrated Security=True";
         private static volatile Banco instance;
         private static object syncRoot = new Object();
         private static int utilizacoes = 0;
