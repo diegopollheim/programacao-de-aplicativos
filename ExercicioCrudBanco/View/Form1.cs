@@ -21,6 +21,7 @@ namespace ExercicioCrudBanco
 
             btnAlterar.Hide();
             btnExcluir.Hide();
+            btnCadastrar.Enabled = false;
 
             txtRazaoSocial.Enabled = false;
             txtNomeFantasia.Enabled = false;
@@ -55,14 +56,7 @@ namespace ExercicioCrudBanco
             {
                 MessageBox.Show("Ocorreu um problema", "OPS");
             }
-            txtRazaoSocial.Clear();
-            txtNomeFantasia.Clear();
-            txtCnpj.Clear();
-            txtLogradouro.Clear();
-            txtEndNum.Clear();
-            txtCidade.Clear();
-            txtEstado.Clear();
-            txtTelefone.Clear();
+            ZerarInputs();
 
             txtCnpj.Enabled = true;
 
@@ -90,13 +84,14 @@ namespace ExercicioCrudBanco
                 btnAlterar.Show();
                 btnExcluir.Show();
                 txtCnpj.Enabled = false;
-
+                
             }
             else
             {
                 MessageBox.Show("Nenhuma Empresa cadastrada com esse CNPJ!", "Alerta");
                 txtRazaoSocial.Focus();
                 txtCnpj.Enabled = false;
+                btnCadastrar.Enabled = true;
             }
 
             txtRazaoSocial.Enabled = true;
@@ -121,14 +116,7 @@ namespace ExercicioCrudBanco
                     {
                         MessageBox.Show("Empresa Excluida com Sucesso.", "Concluido!");
                     }
-                    txtRazaoSocial.Clear();
-                    txtNomeFantasia.Clear();
-                    txtCnpj.Clear();
-                    txtLogradouro.Clear();
-                    txtEndNum.Clear();
-                    txtCidade.Clear();
-                    txtEstado.Clear();
-                    txtTelefone.Clear();
+                    ZerarInputs();
                 }
             }
         }
@@ -159,16 +147,22 @@ namespace ExercicioCrudBanco
                 {
                     MessageBox.Show("Registro Alterado com Sucesso!","Alterado");
                 }
-                txtRazaoSocial.Clear();
-                txtNomeFantasia.Clear();
-                txtCnpj.Clear();
-                txtLogradouro.Clear();
-                txtEndNum.Clear();
-                txtCidade.Clear();
-                txtEstado.Clear();
-                txtTelefone.Clear();
+
+                ZerarInputs();
                 txtCnpj.Enabled = true;
             }
+        }
+
+        private void ZerarInputs()
+        {
+            txtRazaoSocial.Clear();
+            txtNomeFantasia.Clear();
+            txtCnpj.Clear();
+            txtLogradouro.Clear();
+            txtEndNum.Clear();
+            txtCidade.Clear();
+            txtEstado.Clear();
+            txtTelefone.Clear();
         }
     }
 }
