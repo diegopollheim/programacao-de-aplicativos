@@ -10,3 +10,16 @@ C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ExercicioCrudBanco\o
 C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ExercicioCrudBanco\bin\Debug\DAO\BancoEmpresa.mdf
 C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ExercicioCrudBanco\bin\Debug\DAO\BancoEmpresa_log.ldf
 C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.CadastroEmpresa.resources
+C:\Users\Aluno\Desktop\ExercicioCrudBanco\bin\Debug\DAO\BancoEmpresa.mdf
+C:\Users\Aluno\Desktop\ExercicioCrudBanco\bin\Debug\DAO\BancoEmpresa_log.ldf
+C:\Users\Aluno\Desktop\ExercicioCrudBanco\bin\Debug\ExercicioCrudBanco.exe.config
+C:\Users\Aluno\Desktop\ExercicioCrudBanco\bin\Debug\ExercicioCrudBanco.exe
+C:\Users\Aluno\Desktop\ExercicioCrudBanco\bin\Debug\ExercicioCrudBanco.pdb
+C:\Users\Aluno\Desktop\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.CadastroEmpresa.resources
+C:\Users\Aluno\Desktop\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.exe
+C:\Users\Aluno\Desktop\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.pdb
+C:\Users\Aluno\Desktop\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.View.RelatorioEmpresa.resources

@@ -40,8 +40,6 @@ namespace ExercicioCrudBanco.Model
         {
             EmpresaController empresaController = new EmpresaController();
             return empresaController.Gravar(this);
-        }
-
-       
+        }       
     }
 }

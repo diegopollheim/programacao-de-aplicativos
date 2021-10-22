@@ -65,17 +65,23 @@
   <ItemGroup>
     <Compile Include="Controller\EmpresaController.cs" />
     <Compile Include="DAO\Banco.cs" />
-    <Compile Include="View\Form1.cs">
+    <Compile Include="View\CadastroEmpresa.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="View\CadastroEmpresa.Designer.cs">
+      <DependentUpon>CadastroEmpresa.cs</DependentUpon>
     </Compile>
     <Compile Include="Model\Empresa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="View\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="View\RelatorioEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\RelatorioEmpresa.Designer.cs">
+      <DependentUpon>RelatorioEmpresa.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\CadastroEmpresa.resx">
+      <DependentUpon>CadastroEmpresa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -86,6 +92,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="View\RelatorioEmpresa.resx">
+      <DependentUpon>RelatorioEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
