@@ -23,3 +23,4 @@ C:\Users\Aluno\Desktop\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.csproj.Co
 C:\Users\Aluno\Desktop\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.exe
 C:\Users\Aluno\Desktop\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.pdb
 C:\Users\Aluno\Desktop\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.View.RelatorioEmpresa.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ExercicioCrudBanco\obj\Debug\ExercicioCrudBanco.View.RelatorioEmpresa.resources

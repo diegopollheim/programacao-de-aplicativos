@@ -28,7 +28,7 @@ namespace ExercicioCrudBanco.DAO
 
     public class Banco
     {
-        private static string _strCon = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Aluno\Desktop\ExercicioCrudBanco\DAO\BancoEmpresa.mdf;Integrated Security=True";
+        private static string _strCon = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ExercicioCrudBanco\DAO\BancoEmpresa.mdf';Integrated Security=True";
         private static volatile Banco instance;
         private static object syncRoot = new Object();
         private static int utilizacoes = 0;

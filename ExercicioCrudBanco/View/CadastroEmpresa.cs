@@ -100,7 +100,7 @@ namespace ExercicioCrudBanco
                     btnCadastrar.Enabled = true;
                     btnAlterar.Hide();
                     btnExcluir.Hide();
-                    btnBuscar.Enabled = true;
+                    btnBuscar.Enabled = false;
 
                 }
                 // Libera os Inputs para alteração
@@ -125,7 +125,7 @@ namespace ExercicioCrudBanco
                     ZerarInputs();
                 }
                 txtCnpj.Enabled = true;
-                btnBuscar.Enabled = true;
+                btnBuscar.Enabled = true; 
             }
         }
 
