@@ -1,0 +1,10 @@
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ValidacaoDeCPF\bin\Debug\ValidacaoDeCPF.exe.config
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ValidacaoDeCPF\bin\Debug\ValidacaoDeCPF.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ValidacaoDeCPF\bin\Debug\ValidacaoDeCPF.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ValidacaoDeCPF\obj\Debug\ValidacaoDeCPF.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ValidacaoDeCPF\obj\Debug\ValidacaoDeCPF.Form1.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ValidacaoDeCPF\obj\Debug\ValidacaoDeCPF.Properties.Resources.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ValidacaoDeCPF\obj\Debug\ValidacaoDeCPF.csproj.GenerateResource.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ValidacaoDeCPF\obj\Debug\ValidacaoDeCPF.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ValidacaoDeCPF\obj\Debug\ValidacaoDeCPF.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\ValidacaoDeCPF\obj\Debug\ValidacaoDeCPF.pdb
