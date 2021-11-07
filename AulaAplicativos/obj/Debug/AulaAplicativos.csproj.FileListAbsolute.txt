@@ -1,0 +1,26 @@
+C:\Users\Aluno\source\repos\AulaAplicativos\bin\Debug\AulaAplicativos.exe.config
+C:\Users\Aluno\source\repos\AulaAplicativos\bin\Debug\AulaAplicativos.exe
+C:\Users\Aluno\source\repos\AulaAplicativos\bin\Debug\AulaAplicativos.pdb
+C:\Users\Aluno\source\repos\AulaAplicativos\obj\Debug\AulaAplicativos.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\AulaAplicativos\obj\Debug\AulaAplicativos.Form1.resources
+C:\Users\Aluno\source\repos\AulaAplicativos\obj\Debug\AulaAplicativos.Properties.Resources.resources
+C:\Users\Aluno\source\repos\AulaAplicativos\obj\Debug\AulaAplicativos.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\AulaAplicativos\obj\Debug\AulaAplicativos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\AulaAplicativos\obj\Debug\AulaAplicativos.exe
+C:\Users\Aluno\source\repos\AulaAplicativos\obj\Debug\AulaAplicativos.pdb
+C:\Users\Aluno\source\repos\AulaAplicativos\bin\Debug\Banco\Banco.mdf
+C:\Users\Aluno\source\repos\AulaAplicativos\bin\Debug\Banco\Banco_log.ldf
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\bin\Debug\Banco\Banco.mdf
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\bin\Debug\Banco\Banco_log.ldf
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\bin\Debug\AulaAplicativos.exe.config
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\bin\Debug\AulaAplicativos.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\bin\Debug\AulaAplicativos.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\obj\Debug\AulaAplicativos.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\obj\Debug\AulaAplicativos.Form1.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\obj\Debug\AulaAplicativos.Properties.Resources.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\obj\Debug\AulaAplicativos.csproj.GenerateResource.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\obj\Debug\AulaAplicativos.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\obj\Debug\AulaAplicativos.exe
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\obj\Debug\AulaAplicativos.pdb
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\obj\Debug\AulaAplicativos.View.RelatorioCidade.resources
+C:\Users\Diego\Documents\SENAI\PROGRAMAÇÃO DE APLICATIVOS\AulaAplicativos\obj\Debug\AulaAplicativos.View.RelatorioEstados.resources
